@@ -1,0 +1,1 @@
+This repository contains the code for all my homeworks and projects for my React Development course at ALX.
